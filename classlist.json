@@ -1,2 +1,10 @@
 [
+  {
+    "name": "Alex",
+    "surname": "Nakagawa",
+    "birthdate": "1998/04/01",
+    "birthplace": "Tokyo",
+    "hometown": "Pasadena",
+    "favorite-color": "purple"
+  }
 ]
