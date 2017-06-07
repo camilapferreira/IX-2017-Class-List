@@ -40,7 +40,7 @@
 	"birthdate": "1995/12/12",
 	"school": "University of California, Berkeley",
 	"gender": "Female",
-  "email" : "winnieyan@berkeley.edu"
+        "email" : "winnieyan@berkeley.edu"
   }, 
 
   {
@@ -50,8 +50,8 @@
 	"hometown": "Huntington Beach",
 	"phone#": "+1 (714) 655-6256",
 	"social": [{
-		"ig": "alexccarvalho",
-		"fb": "Alex Carvalho"
+        "ig": "alexccarvalho",
+        "fb": "Alex Carvalho"
 	},
 
 	{
