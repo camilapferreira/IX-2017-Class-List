@@ -1,2 +1,12 @@
 [
+  {
+    "name": "Catherine"
+    "surname": "Cimini"
+    "birthdate": "1996/02/07"
+    "email": "cccimini@colby.edu"
+    "school": "Colby College"
+    "gender": "female"
+    "home": "Boston,MA"
+    "favcolor": "blue"
+    "height": "68in"
 ]
