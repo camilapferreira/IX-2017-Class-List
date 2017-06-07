@@ -1,5 +1,15 @@
 
 [{
+	"name": "Winnie",
+	"surname": "Yan",
+	"birthdate": "1995/12/12",
+	"school": "University of California, Berkeley",
+	"gender": "Female",
+  "email" : "winnieyan@berkeley.edu"
+}
+
+
+{
 	"name": "Alex",
 	"surname": "Carvalho",
 	"birthday": "1996/05/05",
@@ -100,7 +110,6 @@
 
 
 ]
-
 
 
 
