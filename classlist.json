@@ -1,5 +1,14 @@
 
-[
+[{
+	"name": "Alex",
+	"surname": "Carvalho",
+	"birthday": "1996/05/05",
+	"hometown": "Huntington Beach",
+	"phone#": "+1 (714) 655-6256",
+	"social": [{
+		"ig": "alexccarvalho",
+		"fb": "Alex Carvalho"
+	}
 
 	{
 		"name": "Rohan",
@@ -91,6 +100,7 @@
 
 
 ]
+
 
 
 
