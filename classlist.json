@@ -1,4 +1,5 @@
 [
+
   {
     "name": "Holt",
     "surname": "Crews",
@@ -8,4 +9,22 @@
     "phone": "601-941-6511",
     "email": "holtcrews47@gmail.com"
   }
+
+
+  { "name" : "Ray",
+   "surname" : "Heberer",
+   "favourite element" : "Nitrogen",
+   "universities attended" : ["Notre Dame", "McGill"],
+   "birthdate" : "6 June, 1995"
+  },
+
+  {
+    "name": "Antonio",
+    "surname": "Minondo",
+    "birthdate": "23/06/1994",
+    "home": "Earth"
+  }
+  
+
+
 ]
