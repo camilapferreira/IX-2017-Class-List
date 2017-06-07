@@ -1,14 +1,143 @@
+
 [  
    {  
-      "name":"Raghav",
-      "surname":"Kumar",
-      "gender":"Male",
-      "birth":"28/03/1996",
-      "hometown":"New Delhi, India",
-      "residency":"Los Angeles, California",
-      "email":"raghavku@usc.edu, raghav96kumar@gmail.com",
-      "phone":"+1(310)2004017",
-      "facebook URL":"https://www.facebook.com/raghav96kumar",
-      "linkedIn URL":"https://www.linkedin.com/in/raghav96kumar/"
-   }
+   "name":"Raghav",
+   "surname":"Kumar",
+   "gender":"Male",
+   "birth":"28/03/1996",
+   "hometown":"New Delhi, India",
+   "residency":"Los Angeles, California",
+   "email":"raghavku@usc.edu, raghav96kumar@gmail.com",
+   "phone":"+1(310)2004017",
+   "facebook URL":"https://www.facebook.com/raghav96kumar",
+   "linkedIn URL":"https://www.linkedin.com/in/raghav96kumar/"
+   },
+
+  {
+	"name": "Catherine",
+	"surname": "Cimini",
+	"birthdate": "1996/02/07",
+	"email": "cccimini@colby.edu",
+	"school": "Colby College",
+	"gender": "female",
+	"home": "Boston,MA",
+	"favcolor": "blue",
+	"height": "68in"
+  },
+
+  {
+	"name": "Rice",
+	"surname": "Tyler",
+	"birthdate": "1996/07/23",
+	"hometown": "Alexandria, Virginia, USA",
+	"phone number": "7035544416",
+	"School": "University of Virginia"
+  },
+
+  {
+	"name": "Winnie",
+	"surname": "Yan",
+	"birthdate": "1995/12/12",
+	"school": "University of California, Berkeley",
+	"gender": "Female",
+  "email" : "winnieyan@berkeley.edu"
+  }, 
+
+  {
+	"name": "Alex",
+	"surname": "Carvalho",
+	"birthday": "1996/05/05",
+	"hometown": "Huntington Beach",
+	"phone#": "+1 (714) 655-6256",
+	"social": [{
+		"ig": "alexccarvalho",
+		"fb": "Alex Carvalho"
+	},
+
+	{
+		"name": "Rohan",
+		"surname": "Karanth",
+		"school": "University of Virginia",
+		"email": "rmk4mk@virginia.edu"
+	},
+
+  {
+	"name": "Neila",
+	"surname": "Toofuny",
+	"birthdate": "1996/08/03",
+	"offspring": [{
+		"name": "NA",
+		"birthdate": "NA"
+	"hometown": "Mississauga"
+  },
+
+  {
+    "name": "Alex",
+    "surname": "Nakagawa",
+    "birthdate": "1998/04/01",
+    "birthplace": "Tokyo",
+    "hometown": "Pasadena",
+    "favorite-color": "purple"
+  },
+
+  {
+    "name": "Griffin",
+   "surname": "Doyle",
+   "birthdate": "1996/10/04",
+   "school": "University of Texas at Austin",
+   "hometown": "Houston"
+  },
+
+  {
+	"name": "Timothy",
+	"surname": "Lim",
+	"birthdate": "1997/12/12",
+	"phone": "484-860-2274",
+	"college": "University of Pennsylvania",
+	"major": "International Studies, History, Business (Business Economics & Public Policy, Business Analytics)",
+	"year": "2020",
+	"hometown": "Singapore"
+  },
+
+  {
+  "Name": "Conor",
+   "Surname": "McLaughlin",
+   "Birthdate": "1997/03/29",
+   "Email": "cfm5qc@virginia.edu",
+  "Hometown": "Fairfax VA"
+  },
+
+  {
+    "name": "Cary",
+    "surname" : "Goeller",
+    "email" : "Carygoeller@gmail.com",
+    "phone" : "+1 415 200-9038"
+  },
+
+  {
+    "name": "Holt",
+    "surname": "Crews",
+    "birthdate": "04/07/1997",
+    "hometown": "Jackson",
+    "homestate": "Mississippi",
+    "phone": "601-941-6511",
+    "email": "holtcrews47@gmail.com"
+  },
+
+  { "name" : "Ray",
+   "surname" : "Heberer",
+   "favourite element" : "Nitrogen",
+   "universities attended" : ["Notre Dame", "McGill"],
+   "birthdate" : "6 June, 1995"
+  },
+
+  {
+    "name": "Antonio",
+    "surname": "Minondo",
+    "birthdate": "23/06/1994",
+    "home": "Earth"
+  }
 ]
+
+
+
