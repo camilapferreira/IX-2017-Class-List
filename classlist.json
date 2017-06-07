@@ -1,4 +1,16 @@
+
 [
+  {
+	"name": "Timothy",
+	"surname": "Lim",
+	"birthdate": "1997/12/12",
+	"phone": "484-860-2274",
+	"college": "University of Pennsylvania",
+	"major": "International Studies, History, Business (Business Economics & Public Policy, Business Analytics)",
+	"year": "2020",
+	"hometown": "Singapore"
+}
+
 
   {"Name": "Conor",
    "Surname": "McLaughlin",
@@ -13,7 +25,6 @@
     "email" : "Carygoeller@gmail.com",
     "phone" : "+1 415 200-9038"
   }
-
 
   {
     "name": "Holt",
@@ -41,7 +52,5 @@
   }
   
 
-
-
-
 ]
+
