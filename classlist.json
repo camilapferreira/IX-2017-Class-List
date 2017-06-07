@@ -1,5 +1,15 @@
 
 [{
+	"name": "Rice",
+	"surname": "Tyler",
+	"birthdate": "1996/07/23",
+	"hometown": "Alexandria, Virginia, USA",
+	"phone number": "7035544416",
+	"School": "University of Virginia"
+}
+
+
+{
 	"name": "Winnie",
 	"surname": "Yan",
 	"birthdate": "1995/12/12",
@@ -110,6 +120,5 @@
 
 
 ]
-
 
 
