@@ -1,6 +1,14 @@
 [
 
   {
+    "name": "Cary",
+    "surname" : "Goeller",
+    "email" : "Carygoeller@gmail.com",
+    "phone" : "+1 415 200-9038"
+  }
+
+
+  {
     "name": "Holt",
     "surname": "Crews",
     "birthdate": "04/07/1997",
@@ -25,6 +33,7 @@
     "home": "Earth"
   }
   
+
 
 
 ]
