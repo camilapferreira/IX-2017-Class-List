@@ -1,8 +1,39 @@
 [
+
   {
     "name": "Cary",
     "surname" : "Goeller",
     "email" : "Carygoeller@gmail.com",
     "phone" : "+1 415 200-9038"
   }
+
+
+  {
+    "name": "Holt",
+    "surname": "Crews",
+    "birthdate": "04/07/1997",
+    "hometown": "Jackson",
+    "homestate": "Mississippi",
+    "phone": "601-941-6511",
+    "email": "holtcrews47@gmail.com"
+  }
+
+
+  { "name" : "Ray",
+   "surname" : "Heberer",
+   "favourite element" : "Nitrogen",
+   "universities attended" : ["Notre Dame", "McGill"],
+   "birthdate" : "6 June, 1995"
+  },
+
+  {
+    "name": "Antonio",
+    "surname": "Minondo",
+    "birthdate": "23/06/1994",
+    "home": "Earth"
+  }
+  
+
+
+
 ]
