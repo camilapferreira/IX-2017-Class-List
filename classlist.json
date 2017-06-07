@@ -1,8 +1,18 @@
 [
+
   { "name" : "Ray",
    "surname" : "Heberer",
    "favourite element" : "Nitrogen",
    "universities attended" : ["Notre Dame", "McGill"],
    "birthdate" : "6 June, 1995"
+  },
+
+  {
+    "name": "Antonio",
+    "surname": "Minondo",
+    "birthdate": "23/06/1994",
+    "home": "Earth"
   }
+  
+
 ]
