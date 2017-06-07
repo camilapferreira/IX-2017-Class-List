@@ -2,6 +2,15 @@
 [
   {
 
+    "name": "Alex",
+    "surname": "Nakagawa",
+    "birthdate": "1998/04/01",
+    "birthplace": "Tokyo",
+    "hometown": "Pasadena",
+    "favorite-color": "purple"
+  }
+
+
     "name": "Griffin",
    "surname": "Doyle",
    "birthdate": "1996/10/04",
@@ -59,6 +68,7 @@
     "home": "Earth"
   }
   
+
 
 
 ]
