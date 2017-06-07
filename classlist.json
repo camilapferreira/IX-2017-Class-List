@@ -1,2 +1,9 @@
 [
+  {
+    "name": "Griffin",
+   "surname": "Doyle",
+   "birthdate": "1996/10/04",
+   "school": "University of Texas at Austin",
+   "hometown": "Houston"
+  }
 ]
