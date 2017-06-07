@@ -50,16 +50,17 @@
 	"hometown": "Huntington Beach",
 	"phone#": "+1 (714) 655-6256",
 	"social": [{
-        "ig": "alexccarvalho",
-        "fb": "Alex Carvalho"
-	},
+        	"ig": "alexccarvalho",
+        	"fb": "Alex Carvalho"
+	}]
+  },
 
-	{
-		"name": "Rohan",
-		"surname": "Karanth",
-		"school": "University of Virginia",
-		"email": "rmk4mk@virginia.edu"
-	},
+  {
+	"name": "Rohan",
+	"surname": "Karanth",
+	"school": "University of Virginia",
+	"email": "rmk4mk@virginia.edu"
+  },
 
   {
 	"name": "Neila",
@@ -68,6 +69,7 @@
 	"offspring": [{
 		"name": "NA",
 		"birthdate": "NA"
+        }],
 	"hometown": "Mississauga"
   },
 
@@ -100,11 +102,11 @@
   },
 
   {
-  "Name": "Conor",
+   "Name": "Conor",
    "Surname": "McLaughlin",
    "Birthdate": "1997/03/29",
    "Email": "cfm5qc@virginia.edu",
-  "Hometown": "Fairfax VA"
+   "Hometown": "Fairfax VA"
   },
 
   {
@@ -124,11 +126,12 @@
     "email": "holtcrews47@gmail.com"
   },
 
-  { "name" : "Ray",
-   "surname" : "Heberer",
-   "favourite element" : "Nitrogen",
-   "universities attended" : ["Notre Dame", "McGill"],
-   "birthdate" : "6 June, 1995"
+  { 
+    "name" : "Ray",
+    "surname" : "Heberer",
+    "favourite element" : "Nitrogen",
+    "universities attended" : ["Notre Dame", "McGill"],
+    "birthdate" : "6 June, 1995"
   },
 
   {
